@@ -20,17 +20,6 @@ The initial analysis of the data revealed several key insights that influence su
 
 * **Fare and Family:** Higher fares correlated positively with survival, which is also linked to being in a higher passenger class. The presence of family members (not being alone) also showed a slight positive correlation with survival.
 
-### Visualizations
-
-<p align="center">
-  <img src="https-raw.githubusercontent.com/user-attachments/assets/b8337d13-0974-4b47-9f7e-400b19685ab5" width="600">
-  <em>Figure 1: Survival counts by Class, Embarkation Town, and Sex.</em>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/957e8419-f027-4c47-8173-047b85e0de57" width="450">
-  <em>Figure 2: Distribution of Passengers by Embarkation Town.</em>
-</p>
 
 ## Project Workflow
 
